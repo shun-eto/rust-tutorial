@@ -1,2 +1,0 @@
-# rust-tutorial
-Rust Tutorial
