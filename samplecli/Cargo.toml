@@ -1,9 +1,10 @@
 [package]
-name = "samplecli"
+name = "rpncalc"
 version = "0.1.0"
 edition = "2021"
 
 [features]
 
 [dependencies]
+anyhow = "1.0.44"
 clap = "3.0.0-beta.5"
